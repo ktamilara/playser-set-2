@@ -1,14 +1,14 @@
-u1=int(input())
-v1=[]
-x1=0
-z1=0
-for i in range(u1):
-    w1=input()
-    v1.append(w1)
-for i in v1:
-    for y1 in i1:
-        x1+=ord(y1)
-    if x1==612:
-        z1+=1
-    x1=0
-print(z1)
+num1=int(input())
+s1=[]
+a1=0
+count1=0
+for i1 in range(num1):
+    c1=input()
+    s1.append(c)
+for i1 in s1:
+	for j1 in i1:
+		a1+=ord(j1)
+	if(a1==612):
+		count+=1
+	a1=0
+print(count)
