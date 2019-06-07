@@ -5,7 +5,7 @@ if n2==a1==c1:
 	print("yes")
 elif k1==b1==d1:
 	print("yes")
-elif n2==k1 and a1==b1 and c1==1d:
+elif n2==k1 and a1==b1 and c1==d1:
 	print("yes")
 else:
 	print("no")
