@@ -1,5 +1,5 @@
-r2=str(input())
-if(r2=="Monday" or r2=="Tuesday" or r2=="Wednesday" or r2=="Thursday" or r2=="Friday"):
+r3=str(input())
+if(r3=="Monday" or r3=="Tuesday" or r3=="Wednesday" or r3=="Thursday" or r3=="Friday"):
    print("no")
 else:
    print("yes")
