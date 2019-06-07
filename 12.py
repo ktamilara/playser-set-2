@@ -1,5 +1,5 @@
-x1,y = map(int,input().split())
-y = y%x1
-l = list(map(int,input().split()))
-l1 = l[-y:] + l[:-y]
+a1,b1 = map(int,input().split())
+b1 = b1%a1
+l3 = list(map(int,input().split()))
+l4 = l2[-b1:] + l3[:-b1]
 print(*l2)
